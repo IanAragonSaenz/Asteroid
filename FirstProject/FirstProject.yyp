@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0986d7ec-0138-46f0-bb54-8cbda06d34be",
+            "Value": {
+                "id": "441226ff-8e26-446d-bf3d-4ce0ea0f28dd",
+                "resourcePath": "fonts\\font_menu\\font_menu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "10ef6198-05c0-4046-a8aa-ac8b06a70739",
             "Value": {
                 "id": "d62f5555-e6ac-4775-9ee7-ab03407908c8",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "47f20104-5d80-496d-bf14-a84f9da160bd",
+            "Value": {
+                "id": "4f2eb920-ac89-49cf-86d7-a1ae75b12ddd",
+                "resourcePath": "objects\\obj_MainMenu\\obj_MainMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4aeac1a5-93e5-4479-a43d-738112c7b2ae",
             "Value": {
                 "id": "2bd0294f-615a-4cda-ab57-57cf27f2e65d",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "6de13a91-bb6b-4762-87fd-9ac3265d2408",
+            "Value": {
+                "id": "edca17a7-019b-4f65-bf51-853eacd50eb7",
+                "resourcePath": "fonts\\font_game\\font_game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7f6193fb-7d0c-463b-bc8f-6b56260555ba",
             "Value": {
                 "id": "faae8718-dff1-45d0-9748-3b8774d023f3",
@@ -199,19 +223,19 @@
             }
         },
         {
-            "Key": "972b9848-1cb9-46c2-b9d4-1c98ed542847",
-            "Value": {
-                "id": "1785f5a9-11bd-4bfb-8557-46502f982287",
-                "resourcePath": "rooms\\room0_Child_0\\room0_Child_0.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "a55ad198-816a-48cc-b2de-a73956846a06",
             "Value": {
                 "id": "c05fa811-c52c-4314-9dc4-ce77b2da11cc",
                 "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a6cba54e-5ac7-4883-9693-621dff700872",
+            "Value": {
+                "id": "b8c7175e-e628-40cb-8bec-71e7f51447d8",
+                "resourcePath": "rooms\\room_Main\\room_Main.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 draw_set_color(c_white);
-draw_text(220, 250, "YOU LOST");
+draw_text(320, 350, "YOU LOST");
