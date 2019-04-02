@@ -5,6 +5,7 @@ instance_destroy();
 with(other){
 	
 	instance_destroy();
+	obj_game_stats.ship_score += 50;
 	 
 	if(sprite_index == spr_asteroid_big){
 		repeat(2){

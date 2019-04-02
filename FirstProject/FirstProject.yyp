@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "08a6b4ee-3f61-4a6c-b676-29667d4eff01",
+            "Value": {
+                "id": "106dbab5-50f0-4603-aa78-1670447f118d",
+                "resourcePath": "objects\\obj_game_stats\\obj_game_stats.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10ef6198-05c0-4046-a8aa-ac8b06a70739",
             "Value": {
                 "id": "d62f5555-e6ac-4775-9ee7-ab03407908c8",
@@ -170,7 +178,7 @@
             "Key": "7f6193fb-7d0c-463b-bc8f-6b56260555ba",
             "Value": {
                 "id": "faae8718-dff1-45d0-9748-3b8774d023f3",
-                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourcePath": "objects\\obj_end_game\\obj_end_game.yy",
                 "resourceType": "GMObject"
             }
         },
