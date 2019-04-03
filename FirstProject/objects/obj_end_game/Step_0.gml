@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(b_alarm){
-	game_end();
+
+if(keyboard_check_pressed(vk_enter)){
+	b_alarm = false;
+	room_restart();
 }
