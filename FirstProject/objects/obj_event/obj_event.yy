@@ -1,38 +1,48 @@
 {
-    "id": "23aee06b-427e-4fac-9f4e-bf405cd3fff1",
+    "id": "51c44d9b-91cd-4ff7-844b-0948f74ba72f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_asteroid",
+    "name": "obj_event",
     "eventList": [
         {
-            "id": "c13d15cf-4cb9-443a-8ad8-ea1b8ab0d428",
+            "id": "5299e386-495e-4c11-b7e9-e2972fbc8834",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "23aee06b-427e-4fac-9f4e-bf405cd3fff1"
+            "m_owner": "51c44d9b-91cd-4ff7-844b-0948f74ba72f"
         },
         {
-            "id": "ccb13f5e-0982-4cab-b899-8e2aa4e9174f",
+            "id": "3a4c4426-df4e-4e94-bb48-cac977628180",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "23aee06b-427e-4fac-9f4e-bf405cd3fff1"
+            "m_owner": "51c44d9b-91cd-4ff7-844b-0948f74ba72f"
         },
         {
-            "id": "56516fd0-e49e-4022-81be-78e46756572b",
+            "id": "2602bc42-1c67-4a51-889d-ab0ff55e452a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "23aee06b-427e-4fac-9f4e-bf405cd3fff1"
+            "m_owner": "51c44d9b-91cd-4ff7-844b-0948f74ba72f"
+        },
+        {
+            "id": "b6328922-e6a1-49c3-b500-1fd6607b413f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "23eae962-e33b-437c-9ae4-e72e2e276653",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "51c44d9b-91cd-4ff7-844b-0948f74ba72f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +63,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fa95dda2-dc70-4289-8514-6e0b63566806",
+    "spriteId": "63f0778d-7420-4f26-a35d-5dcf468c2f7b",
     "visible": true
 }

@@ -3,4 +3,4 @@
 room_speed =60;
 b_alarm = true;
 
-alarm[0]= room_speed*2.25;
+alarm[0]= room_speed*5;

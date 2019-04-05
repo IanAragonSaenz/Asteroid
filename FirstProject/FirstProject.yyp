@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "0e1653db-795b-486c-8c56-78e376a436eb",
+            "Value": {
+                "id": "a4fda037-53c3-408c-bd7f-12666f7a5db2",
+                "resourcePath": "objects\\obj_rain\\obj_rain.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f53e2f6-f1be-4fc2-9a5b-1bd74a21b8df",
+            "Value": {
+                "id": "3669528c-5aed-4f61-8234-6e99a5b4cd27",
+                "resourcePath": "fonts\\font_Title\\font_Title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "10ef6198-05c0-4046-a8aa-ac8b06a70739",
             "Value": {
                 "id": "d62f5555-e6ac-4775-9ee7-ab03407908c8",
@@ -164,6 +180,14 @@
                 "id": "88723f05-9e66-4799-b726-b28ecbb17114",
                 "resourcePath": "views\\4d07c563-717e-40bb-a0c0-2ae6aa5c97c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "51c44d9b-91cd-4ff7-844b-0948f74ba72f",
+            "Value": {
+                "id": "0762ccfd-f67f-4f28-ada3-192526d0fc96",
+                "resourcePath": "objects\\obj_event\\obj_event.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -4,7 +4,7 @@
 if(attacked == false){
 	obj_game_stats.ship_lives--;
 	attacked = true;
-	alarm[0] = 60;
+	alarm[0] = 45;
 }
 
 with(other){
