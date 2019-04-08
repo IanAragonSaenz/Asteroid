@@ -8,14 +8,14 @@ if(create >= 80){
 		inst.sprite_index = spr_asteroid_small;
 		inst.direction = 270;
 		inst.speed = random_range(.8, 1.7);
-		inst.alarm[0] = 420;
+		inst.alarm[0] = 540;
 		iTimes++;
 	}
 	create = 0;
 	iDestroy++;
 }
 
-if(iDestroy >= 10){
+if(iDestroy >= 6){
 	instance_destroy();
 }
 

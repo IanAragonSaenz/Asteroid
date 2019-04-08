@@ -4,9 +4,16 @@
 
 switch(menu_index){
 	
-	case 0: room_goto_next();
+	case 0: 
+		room0.Old = true;
+		room_goto_next();
 		break;
-	
-	case 1: game_end();
+		
+	case 1:
+		room0.Old = false;
+		room_goto_next();
+		break;
+		
+	case 2: game_end();
 		break;
 }

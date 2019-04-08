@@ -4,7 +4,7 @@ draw_set_font(font_Title);
 draw_set_halign(fa_center);
 draw_set_color(c_white);
 draw_text(menu_x, menu_y-Button_h, "Asteroids");
-draw_set_font(font_menu);
+
 
 var i = 0;
 repeat(Buttons){

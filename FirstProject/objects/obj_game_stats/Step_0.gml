@@ -1,6 +1,7 @@
 /// @descriptio n Insert description here
 // You can write your code in this editor
 
+
 iCount++;
 if(ship_lives <= 0){
 	with(obj_ship){

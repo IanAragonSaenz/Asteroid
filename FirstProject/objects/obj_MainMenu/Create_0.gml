@@ -7,10 +7,10 @@ Button_h = 48;
 
 //array of menu
 
-Button[0] = "Start";
-Button[1] = "Quit"
+Button[0] = "Start Old School";
+Button[1] = "New Version";
+Button[2] = "Quit";
 
 Buttons = array_length_1d(Button);
 
 menu_index = 0;
-last_selected = 0;

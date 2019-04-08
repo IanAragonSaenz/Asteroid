@@ -2,19 +2,21 @@
 // You can write your code in this editor
 
 switch(number){
-	case 1:
+	case 0:
 		obj_ship.special_attack = true;
 		obj_ship.alarm[1] = 600;
 		break;
+	case 1:
+		instance_create_layer(350, 0, "Instances", obj_rain);
+		break;
+		
 	case 2:
-		instance_create_layer(350, 0, "Instances", obj_rain);
+		obj_game_stats.ship_lives += 2;
 		break;
-		
-	case 3:
-		
-		break;
+	
+	
 	default:
-		instance_create_layer(350, 0, "Instances", obj_rain);
+		obj_game_stats.ship_lives += 2;
 		break;
 }
 
