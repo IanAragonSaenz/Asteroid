@@ -13,6 +13,15 @@ if(lives <= 0){
 
 		instance_destroy();
 	}
+	with(obj_shipNew){
+		repeat(10){
+			instance_create_layer(x, y, "Instances", obj_debris);
+		}
+
+		instance_create_layer(x, y, "Instances", obj_end_game);
+
+		instance_destroy();
+	}
 }
 
 if(iCount >= 300){
